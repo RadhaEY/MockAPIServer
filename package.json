@@ -1,0 +1,12 @@
+{
+  "name": "MOCKAPI",
+  "version": "0.0.0",
+  "description": "MOCKAPI",
+  "main": "server.js",
+  "author": {
+    "name": "radha"
+  },
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
